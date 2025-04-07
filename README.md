@@ -23,7 +23,8 @@ Stay tuned for updates on my latest projects and contributions—I can't wait to
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,js,react,nodejs,python,postgresql,git,html,css" />
+    <img src="https://skillicons.dev/icons?
+    i=python,bash,c,linux,lua,git,vim,html,css" />
   </a>
 </p>
 
