@@ -1,3 +1,7 @@
+# Hi, I’m Arthur
+
+
+
 👋 Hello there! I'm Arthur, a seasoned software engineer with a passion for crafting robust solutions and embracing emerging technologies. I've embarked on a new adventure by immersing myself in the vibrant world of open-source software. I'm excited to contribute my expertise and collaborate with fellow developers to create impactful solutions. 
 
 Stay tuned for updates on my latest projects and contributions—I can't wait to share my journey with you!
