@@ -2,7 +2,7 @@
 
 
 
-👋 Hello there! I'm Arthur, a student at Universtiy of Toronto studying Mathematics and Economics with a interest in Cybersecurity. I've embarked on a new adventure by immersing myself in the vibrant world of reverse engineering, open source inteligence, and cryptography. I'm excited to contribute my expertise and collaborate with others to create impactful solutions. 
+👋 Hello there! I'm Arthur, a student at University of Toronto studying Mathematics and Economics with a interest in Cybersecurity. I've embarked on a new adventure by immersing myself in the vibrant world of reverse engineering, open source inteligence, and cryptography. I'm excited to contribute my expertise and collaborate with others to create impactful solutions. 
 
 I'm excited to share my adventure with you, so stay tuned for updates on my most recent contributions and initiatives!
 
